@@ -1,6 +1,6 @@
 /*
 DNA to Amino Acid Sequencer
-Brinda Venkataramani
+.//vbrasic)(
 April 12th, 2015
 Version 1.5
 */
